@@ -1,0 +1,8 @@
+<Files private.pem>
+  order allow,deny
+  deny from all
+</Files>
+<Files federatedlogin.cer>
+  order allow,deny
+  deny from all
+</Files>
